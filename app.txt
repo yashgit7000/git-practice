@@ -1,2 +1,3 @@
 Docker is awesome
-GitHub is aweswome
+GitHub is aweswome     
+I am learning git
